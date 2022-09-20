@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/techy_nidhi" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/techy_nidhi?logo=twitter&style=for-the-badge" alt="https://twitter.com/techy_nidhi" /></a> </p>
 
-- 🔭 I’m currently working on [Shopping Cart](https://shopping-cart-two-kappa.vercel.app/)
 
 - 🌱 I’m currently learning **reactjs a**
 
