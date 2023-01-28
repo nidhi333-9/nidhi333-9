@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a blogging website.<br>🤝 I’m looking for help with the Tech community<br>🌱 I’m currently learning Ruby on Rails<br>💬 Ask me about HTML, CSS, JavaScript & Tailwind CSS<br>⚡ Fun fact I love to do sketches
+🔭 I’m currently working on a blogging website.<br>🤝 I’m looking to work with the Tech community<br>🌱 I’m currently learning Ruby on Rails<br>💬 Ask me about HTML, CSS, JavaScript & Tailwind CSS<br>⚡ Fun fact I love to do sketches
 
 
 ## 🌐 Socials:
